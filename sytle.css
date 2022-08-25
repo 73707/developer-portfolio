@@ -87,7 +87,6 @@ span{
     background-repeat: no-repeat;
 }
 #e{
-    text-shadow: 2px 2px  #000000;
     color: orange;
 }
 .exp h3{
@@ -107,7 +106,7 @@ span{
 
 #baby{
     margin: 1vw;
-    height: 23.6vw;
+    height: auto;
     border-left: 5px solid;
     border-radius: 10px;
     border-image: linear-gradient( 180deg, blue, cyan );
