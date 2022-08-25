@@ -77,6 +77,8 @@ span{
 }    
 
 .exp{
+    width: 100%;
+    
     padding-top: 4vw;
     padding-left: 4vw;
     background-size: 6%;
@@ -94,6 +96,7 @@ span{
 }  
 
 #full{
+    margin: 1vw;
     border-left: 5px solid;
     border-radius: 8px;
     border-image: linear-gradient( 180deg, blue, cyan );
@@ -101,12 +104,18 @@ span{
 }
 
 #baby{
+    margin: 1vw;
     height: 23.6vw;
     border-left: 5px solid;
     border-radius: 10px;
     border-image: linear-gradient( 180deg, blue, cyan );
     border-image-slice: 1;
-}    
+}  
+.ep{
+    width: 40%;
+    float: left;
+}
+
 footer p{
     text-align: center;
 }  
