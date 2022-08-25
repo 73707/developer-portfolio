@@ -98,6 +98,7 @@ span{
 
 #full{
     margin: 1vw;
+    height: 24vw;
     border-left: 5px solid;
     border-radius: 8px;
     border-image: linear-gradient( 180deg, blue, cyan );
@@ -106,7 +107,7 @@ span{
 
 #baby{
     margin: 1vw;
-    height: auto;
+    height: 24vw;
     border-left: 5px solid;
     border-radius: 10px;
     border-image: linear-gradient( 180deg, blue, cyan );
