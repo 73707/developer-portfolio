@@ -1,6 +1,8 @@
 
 body{
     margin: 0;
+    background-color: #09001d;
+    color: white;
 }
 section{
     height: 35vw;
